@@ -9,4 +9,13 @@ export default {
   },
 } as Meta<TextProps>
 
-export const Deafult: StoryObj = {}
+export const Deafult: StoryObj<TextProps> = {}
+
+export const CustomComponent: StoryObj<TextProps> = {
+  args: {
+    asChild: true,
+    children: (
+      <p>Hello World!</p>
+    )
+  }
+}
