@@ -1,6 +1,6 @@
 <h1 align="center">Design System</h1>
 
-## 🧪 Teches
+## 🧪 Tech
 
 -   [X] Figma;
 -   [X] ViteJS;
