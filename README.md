@@ -1,6 +1,6 @@
 <h1 align="center">Design System</h1>
 
-## 🧪 Tecnologias
+## 🧪 Teches
 
 -   [X] Figma;
 -   [X] ViteJS;
@@ -12,7 +12,7 @@
 -   [X] TailwindCSS;
 -   [X] clsx;
 
-## :hammer_and_wrench: Design no Figma
+## :hammer_and_wrench: Design on Figma
 
 https://www.figma.com/file/jjCZc8SoYAoqBTJRiEvf0A/ignite-Lab-Design-System
 
@@ -20,10 +20,9 @@ https://www.figma.com/file/jjCZc8SoYAoqBTJRiEvf0A/ignite-Lab-Design-System
 
 https://salesmatheus.github.io/react-design-system
 
-## 🚀 Como executar
+## 🚀 How to run
 
-Utilize o **yarn** ou o **npm install** para instalar as dependências do projeto.
-Em seguida, inicie o projeto.
+**yarn** or **npm install** 
 
 ```cl
 yarn storybook
