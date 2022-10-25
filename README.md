@@ -14,7 +14,7 @@
 
 ## :hammer_and_wrench: Design no Figma
 
-https://www.figma.com/file/jjCZc8SoYAoqBTJRiEvf0A/ignite-Lab-Design-System?node-id=0%3A1
+https://www.figma.com/file/jjCZc8SoYAoqBTJRiEvf0A/ignite-Lab-Design-System
 
 ## :books: Storybook
 
