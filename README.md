@@ -18,7 +18,7 @@ https://www.figma.com/file/jjCZc8SoYAoqBTJRiEvf0A/ignite-Lab-Design-System?node-
 
 ## :books: Storybook
 
-https://salesmatheus.github.io/react-design-system/?path=/story/components-button--deafult
+https://salesmatheus.github.io/react-design-system
 
 ## 🚀 Como executar
 
